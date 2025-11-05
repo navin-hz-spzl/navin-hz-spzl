@@ -3,7 +3,7 @@
 🚀 **Java Full Stack Developer | Cloud-Native Engineer | AI Enthusiast**
 
 I’m a passionate software engineer with 4+ years of experience designing and developing **scalable, secure, and event-driven web applications** using **Java, Spring Boot, React.js, and AWS**.  
-Currently pursuing my **Master’s in Computer Science at the University of Central Missouri**, I’m focused on building systems that combine performance, reliability, and intelligent automation.
+Completed **Master's in Computer Science at the University of Central Missouri**, I’m focused on building systems that combine performance, reliability, and intelligent automation.
 
 ---
 
